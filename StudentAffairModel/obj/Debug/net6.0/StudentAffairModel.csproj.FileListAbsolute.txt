@@ -1,0 +1,15 @@
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\bin\Debug\net6.0\StudentAffairModel.exe
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\bin\Debug\net6.0\StudentAffairModel.deps.json
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\bin\Debug\net6.0\StudentAffairModel.runtimeconfig.json
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\bin\Debug\net6.0\StudentAffairModel.dll
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\bin\Debug\net6.0\StudentAffairModel.pdb
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.csproj.AssemblyReference.cache
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.AssemblyInfoInputs.cache
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.AssemblyInfo.cs
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.csproj.CoreCompileInputs.cache
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.dll
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\refint\StudentAffairModel.dll
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.pdb
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\StudentAffairModel.genruntimeconfig.cache
+D:\ITI\18- C#\Day 11\StudentAffairModel\StudentAffairModel\obj\Debug\net6.0\ref\StudentAffairModel.dll
